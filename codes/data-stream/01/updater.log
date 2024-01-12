@@ -1,0 +1,51 @@
+Hit:1 http://mirrors.aliyun.com/ubuntu focal InRelease
+Get:2 http://mirrors.aliyun.com/ubuntu focal-security InRelease [114 kB]
+Get:3 http://mirrors.aliyun.com/ubuntu focal-updates InRelease [114 kB]
+Get:4 http://mirrors.aliyun.com/ubuntu focal-proposed InRelease [267 kB]
+Hit:5 http://mirrors.aliyun.com/ubuntu focal-backports InRelease
+Get:6 http://mirrors.aliyun.com/ubuntu focal-security/restricted Sources [54.1 kB]
+Get:7 http://mirrors.aliyun.com/ubuntu focal-security/universe Sources [208 kB]
+Get:8 http://mirrors.aliyun.com/ubuntu focal-security/main Sources [301 kB]
+Get:9 http://mirrors.aliyun.com/ubuntu focal-security/main amd64 Packages [2,647 kB]
+Get:10 http://mirrors.aliyun.com/ubuntu focal-security/main i386 Packages [694 kB]
+Get:11 http://mirrors.aliyun.com/ubuntu focal-security/main Translation-en [406 kB]
+Get:12 http://mirrors.aliyun.com/ubuntu focal-security/restricted amd64 Packages [2,460 kB]
+Get:13 http://mirrors.aliyun.com/ubuntu focal-security/restricted Translation-en [343 kB]
+Get:14 http://mirrors.aliyun.com/ubuntu focal-security/universe i386 Packages [636 kB]
+Get:15 http://mirrors.aliyun.com/ubuntu focal-security/universe amd64 Packages [919 kB]
+Get:16 http://mirrors.aliyun.com/ubuntu focal-security/universe Translation-en [193 kB]
+Get:17 http://mirrors.aliyun.com/ubuntu focal-updates/main Sources [582 kB]
+Get:18 http://mirrors.aliyun.com/ubuntu focal-updates/universe Sources [360 kB]
+Get:19 http://mirrors.aliyun.com/ubuntu focal-updates/restricted Sources [54.2 kB]
+Get:20 http://mirrors.aliyun.com/ubuntu focal-updates/main amd64 Packages [3,030 kB]
+Get:21 http://mirrors.aliyun.com/ubuntu focal-updates/main i386 Packages [920 kB]
+Get:22 http://mirrors.aliyun.com/ubuntu focal-updates/main Translation-en [489 kB]
+Get:23 http://mirrors.aliyun.com/ubuntu focal-updates/restricted amd64 Packages [2,579 kB]
+Get:24 http://mirrors.aliyun.com/ubuntu focal-updates/restricted i386 Packages [36.4 kB]
+Get:25 http://mirrors.aliyun.com/ubuntu focal-updates/restricted Translation-en [360 kB]
+Get:26 http://mirrors.aliyun.com/ubuntu focal-updates/universe amd64 Packages [1,144 kB]
+Get:27 http://mirrors.aliyun.com/ubuntu focal-updates/universe i386 Packages [763 kB]
+Get:28 http://mirrors.aliyun.com/ubuntu focal-updates/universe Translation-en [274 kB]
+Get:29 http://mirrors.aliyun.com/ubuntu focal-proposed/restricted Sources [13.4 kB]
+Get:30 http://mirrors.aliyun.com/ubuntu focal-proposed/restricted amd64 Packages [321 kB]
+Fetched 20.3 MB in 20s (1,024 kB/s)
+Reading package lists...
+Building dependency tree...
+Reading state information...
+3 packages can be upgraded. Run 'apt list --upgradable' to see them.
+Reading package lists...
+Building dependency tree...
+Reading state information...
+Calculating upgrade...
+The following packages were automatically installed and are no longer required:
+  cmake-data dh-elpa-helper libboost-filesystem1.74.0 libboost-iostreams1.74.0
+  libboost-locale1.74.0 libboost-thread1.74.0 libgpgmepp6 libjsoncpp25
+  libllvm13 libmwaw-0.3-3 liborcus-0.17-0 liborcus-parser-0.17-0 librhash0
+  libwps-0.4-4
+Use 'sudo apt autoremove' to remove them.
+Get another security update through Ubuntu Pro with 'esm-apps' enabled:
+  libslurm37
+Learn more about Ubuntu Pro at https://ubuntu.com/pro
+The following packages have been kept back:
+  thunderbird thunderbird-gnome-support thunderbird-locale-en
+0 upgraded, 0 newly installed, 0 to remove and 3 not upgraded.

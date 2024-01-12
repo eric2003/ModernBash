@@ -1,0 +1,25 @@
+Hit:1 http://mirrors.aliyun.com/ubuntu focal InRelease
+Hit:2 http://mirrors.aliyun.com/ubuntu focal-security InRelease
+Hit:3 http://mirrors.aliyun.com/ubuntu focal-updates InRelease
+Hit:4 http://mirrors.aliyun.com/ubuntu focal-proposed InRelease
+Hit:5 http://mirrors.aliyun.com/ubuntu focal-backports InRelease
+Reading package lists...
+Building dependency tree...
+Reading state information...
+3 packages can be upgraded. Run 'apt list --upgradable' to see them.
+Reading package lists...
+Building dependency tree...
+Reading state information...
+Calculating upgrade...
+The following packages were automatically installed and are no longer required:
+  cmake-data dh-elpa-helper libboost-filesystem1.74.0 libboost-iostreams1.74.0
+  libboost-locale1.74.0 libboost-thread1.74.0 libgpgmepp6 libjsoncpp25
+  libllvm13 libmwaw-0.3-3 liborcus-0.17-0 liborcus-parser-0.17-0 librhash0
+  libwps-0.4-4
+Use 'sudo apt autoremove' to remove them.
+Get another security update through Ubuntu Pro with 'esm-apps' enabled:
+  libslurm37
+Learn more about Ubuntu Pro at https://ubuntu.com/pro
+The following packages have been kept back:
+  thunderbird thunderbird-gnome-support thunderbird-locale-en
+0 upgraded, 0 newly installed, 0 to remove and 3 not upgraded.
