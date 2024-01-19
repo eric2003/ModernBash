@@ -1,0 +1,4 @@
+#!/bin/bash
+
+echo "\${BASH_EXECUTION_STRING}: ${BASH_EXECUTION_STRING}"
+

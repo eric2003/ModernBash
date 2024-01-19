@@ -1,0 +1,12 @@
+cat Command Examples
+Let’s check out some of the most common examples for using the cat command in Linux.
+
+Using the cat Command to Create a File
+Using the cat command you can quickly create a file and put text into it. To do that, use the > redirect operator to redirect the text in the file.
+
+cat > filename.txt
+The file is created, and you can begin populating it with text. To add multiple lines of text just press Enter at the end of each line.  Once you’re done, hit CTRL+D to exit the file.
+
+To verify that the file is indeed created by the command used above, just use the following ls command in the terminal:
+
+ls -l
